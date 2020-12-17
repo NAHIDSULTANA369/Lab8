@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{E69636BB-4F11-4E86-B1F2-9FF60BB9BB74}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab8/ScientificCalculatorInterface.cs">
+    <Files>
+      <File FileName="Lab8/Program.cs" Line="1" Column="1" />
+      <File FileName="Lab8/BasicCalculatorInterface.cs" Line="47" Column="26" />
+      <File FileName="Lab8/ScientificCalculatorInterface.cs" Line="4" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab8" expanded="True">
+            <Node name="Lab8" expanded="True">
+              <Node name="ScientificCalculatorInterface.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab8 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
